@@ -1,0 +1,4 @@
+build/
+turing_simulator
+turing_simulator.exe
+*.o
